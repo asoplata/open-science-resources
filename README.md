@@ -16,7 +16,7 @@
         - [Non-specific](#non-specific)
         - [Specific to field](#specific-to-field)
     - [Open DIY Hardware](#open-diy-hardware)
-    - [Organizations, Conferences, Communities](#organizations,-conferences,-communities)
+    - [Organizations Conferences Communities](#organizations-conferences-communities)
         - [Specific to field](#specific-to-field)
     - [Project Management](#project-management)
 
@@ -220,7 +220,7 @@
 - [Open Ephys - Open-source electrophysiology](http://www.open-ephys.org/)
 - [Open Hardware Repository - run by CERN](https://www.ohwr.org/)
 
-### Organizations, Conferences, Communities
+### Organizations Conferences Communities
 
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
 - [BSSW - Better Scientific SoftWare project](https://bssw.io/)
