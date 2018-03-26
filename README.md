@@ -8,10 +8,16 @@
     - [Journals for Open Science](#journals-for-open-science)
     - [Manuscript Collaboration](#manuscript-collaboration)
     - [Licensing](#licensing)
+        - [Manuscripts](#manuscripts)
+        - [Code](#code)
     - [Open Code](#open-code)
     - [Open Data Repositories and Services](#open-data-repositories-and-services)
+        - [Meta-resources for open data repositories](#meta-resources-for-open-data-repositories)
+        - [Non-specific](#non-specific)
+        - [Specific to field](#specific-to-field)
     - [Open DIY Hardware](#open-diy-hardware)
-    - [Organizations / Conferences / Communities](#organizations-/-conferences-/-communities)
+    - [Organizations, Conferences, Communities](#organizations,-conferences,-communities)
+        - [Specific to field](#specific-to-field)
     - [Project Management](#project-management)
 
 -----------------------------------
@@ -60,13 +66,15 @@
 
 ### Licensing
 
-- Manuscripts:
-    - [Creative Commons - Choose a License](https://creativecommons.org/choose/)
-    - ["Why the CC-BY License?" - Open Access Scholarly Publishers Association](https://oaspa.org/why-cc-by/)
-- Code:
-    - [Choose a License.com](https://choosealicense.com)
-    - [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
+##### Manuscripts
 
+- [Creative Commons - Choose a License](https://creativecommons.org/choose/)
+- ["Why the CC-BY License?" - Open Access Scholarly Publishers Association](https://oaspa.org/why-cc-by/)
+
+##### Code
+
+- [Choose a License.com](https://choosealicense.com)
+- [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
 
 ### Open Code
 
@@ -77,7 +85,7 @@
 
 ### Open Data Repositories and Services
 
-##### Meta-resources for open data repositories:
+##### Meta-resources for open data repositories
 
 - [ELIXIR Core Data Resources](https://www.elixir-europe.org/platforms/data/core-data-resources)
 - [ExPASy - Swiss Institute of Bioinformatics (SIB) Resource Portal](http://www.expasy.org/)
@@ -99,7 +107,7 @@
 - [PhysioNet - Database of physiological signal datasets (PhysioBank) and related tools (PhysioToolkit)](http://www.physionet.org)
 - [UniProt - Repository of protein sequence and functional information databases](http://www.uniprot.org/)
 
-##### Non-specific:
+##### Non-specific
 
 - [Dataverse - Open source research data repository software](https://dataverse.org/)
 - [Datazar - Cloud-based data collaboration platform](https://www.datazar.com/)
@@ -109,7 +117,7 @@
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [Zenodo - Research data repository](https://zenodo.org/)
 
-##### Specific to field:
+##### Specific to field
 
 - [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 - [ABIDE - Autism Brain Imaging Data Exchange](http://fcon_1000.projects.nitrc.org/indi/abide/)
@@ -212,7 +220,7 @@
 - [Open Ephys - Open-source electrophysiology](http://www.open-ephys.org/)
 - [Open Hardware Repository - run by CERN](https://www.ohwr.org/)
 
-### Organizations / Conferences / Communities
+### Organizations, Conferences, Communities
 
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
 - [BSSW - Better Scientific SoftWare project](https://bssw.io/)
@@ -229,7 +237,7 @@
 - [SSI - Software Sustainability Institute, focused on enhancing scientific coding](https://www.software.ac.uk/who-do-we-work)
 - [TailorDev - "Best practices and software for an Open Science"](https://tailordev.fr/)
 
-##### Specific to field:
+##### Specific to field
 
 - [OpenPlant - Synthetic Biology Research Center](https://www.openplant.org/)
 - [Public Lab - Inexpensive DIY environmental science](https://publiclab.org/)
