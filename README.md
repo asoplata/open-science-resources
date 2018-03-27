@@ -5,12 +5,8 @@
     - [Meta-resources](#meta-resources)
     - [Bibliography Management Software](#bibliography-management-software)
     - [Indexing of Publications and Search](#indexing-of-publications-and-search)
-    - [Journals for Open Science](#journals-for-open-science)
-    - [Manuscript Collaboration](#manuscript-collaboration)
-    - [Licensing](#licensing)
-        - [Manuscripts](#manuscripts)
-        - [Code](#code)
     - [Open Code](#open-code)
+        - [Code Licensing](#code-licensing)
     - [Open Data Repositories and Services](#open-data-repositories-and-services)
         - [Meta-resources for open data repositories](#meta-resources-for-open-data-repositories)
         - [Non-specific](#non-specific)
@@ -19,6 +15,10 @@
     - [Organizations Conferences Communities](#organizations-conferences-communities)
         - [Specific to field](#specific-to-field)
     - [Project Management](#project-management)
+    - [Publishing](#publishing)
+        - [Journals for Open Science](#journals-for-open-science)
+        - [Manuscript Collaboration](#manuscript-collaboration)
+        - [Manuscript Licensing](#manuscript-licensing)
 
 -----------------------------------
 
@@ -51,38 +51,17 @@
 - [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
 - [ScienceOpen](https://www.scienceopen.com/)
 
-### Journals for Open Science
-
-- [F1000Research](https://f1000research.com/)
-- [arXiv - Famous preprint server for physics, computer science, etc.](https://arxiv.org/)
-- [biorXiv - Preprint server for biology](https://www.biorxiv.org/)
-- [gitXiv - Preprint server for computer science](http://www.gitxiv.com/)
-- [psyArXiv - Preprint server for psychology](https://psyarxiv.com/)
-
-### Manuscript Collaboration
-
-- [Authorea](https://www.authorea.com/)
-- [Overleaf](https://www.overleaf.com/)
-- [ShareLatex](https://www.sharelatex.com/)
-
-### Licensing
-
-##### Manuscripts
-
-- [Creative Commons - Choose a License](https://creativecommons.org/choose/)
-- ["Why the CC-BY License?" - Open Access Scholarly Publishers Association](https://oaspa.org/why-cc-by/)
-
-##### Code
-
-- [Choose a License.com](https://choosealicense.com)
-- [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
-
 ### Open Code
 
 - [Bioconductor - R software suite for analyzing high-throughput genomic data](https://www.bioconductor.org/)
 - [GitHub for Science](https://blog.github.com/2014-05-14-improving-github-for-science/)
 - [rOpenSci - Infrastructure for R software tools for scientific data analysis](https://ropensci.org/)
 - [SciUnit - Formally validating scientific models against data](https://github.com/scidash/sciunit)
+
+##### Code Licensing Guides
+
+- [Choose a License.com](https://choosealicense.com)
+- [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
 
 ### Open Data Repositories and Services
 
@@ -249,3 +228,24 @@
 - [OSF - Open Science Framework](https://osf.io/) built by [Center for Open Science](https://cos.io/)
 - [Synapse](https://www.synapse.org/) built by [Sage Bionetworks](http://sagebionetworks.org/)
 - [Liquid](https://getliquid.io/home)
+
+### Publishing
+
+##### Journals for Open Science
+
+- [F1000Research](https://f1000research.com/)
+- [arXiv - Famous preprint server for physics, computer science, etc.](https://arxiv.org/)
+- [biorXiv - Preprint server for biology](https://www.biorxiv.org/)
+- [gitXiv - Preprint server for computer science](http://www.gitxiv.com/)
+- [psyArXiv - Preprint server for psychology](https://psyarxiv.com/)
+
+##### Manuscript Collaboration
+
+- [Authorea](https://www.authorea.com/)
+- [Overleaf](https://www.overleaf.com/)
+- [ShareLatex](https://www.sharelatex.com/)
+
+##### Manuscript Licensing
+
+- [Creative Commons - Choose a License](https://creativecommons.org/choose/)
+- ["Why the CC-BY License?" - Open Access Scholarly Publishers Association](https://oaspa.org/why-cc-by/)
