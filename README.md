@@ -88,6 +88,7 @@
 
 ##### Meta-resources for open data repositories
 
+- [COPO - Collaborative Open Plant -Omics](https://copo-project.org/)
 - [ELIXIR Core Data Resources](https://www.elixir-europe.org/platforms/data/core-data-resources)
 - [ExPASy - Swiss Institute of Bioinformatics (SIB) Resource Portal](http://www.expasy.org/)
 - [GitHub public datasets (not comprehensive)](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
