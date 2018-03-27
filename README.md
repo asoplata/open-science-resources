@@ -57,6 +57,7 @@
 - [arXiv - Famous preprint server for physics, computer science, etc.](https://arxiv.org/)
 - [biorXiv - Preprint server for biology](https://www.biorxiv.org/)
 - [gitXiv - Preprint server for computer science](http://www.gitxiv.com/)
+- [psyArXiv - Preprint server for psychology](https://psyarxiv.com/)
 
 ### Manuscript Collaboration
 
