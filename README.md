@@ -41,6 +41,7 @@
 
 - [Mendeley](https://www.mendeley.com/)
 - [Zotero](https://www.zotero.org/)
+- [Papers](https://www.readcube.com/papers/)
 
 ### Indexing of Publications and Search
 
@@ -202,6 +203,8 @@
 - [Autopatcher - DIY hardware for builting a cell autopatching system for electrophysiology](http://autopatcher.org/)
 - [Open Ephys - Open-source electrophysiology](http://www.open-ephys.org/)
 - [Open Hardware Repository - run by CERN](https://www.ohwr.org/)
+- [FinchSchope - 3D printed miniature microscope](https://github.com/gardner-lab/FinchScope) and accompanying [VideoCapture software](https://github.com/gardner-lab/video-capture)
+- [UCLA Miniscope](http://miniscope.org/)
 
 ### Organizations Conferences Communities
 
@@ -224,6 +227,7 @@
 
 - [OpenPlant - Synthetic Biology Research Center](https://www.openplant.org/)
 - [Public Lab - Inexpensive DIY environmental science](https://publiclab.org/)
+- [songbird-code - Community for software related to song bird research](https://groups.google.com/forum/?hl=en#!forum/songbird-code)
 
 ### Project Management
 
