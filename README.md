@@ -40,8 +40,8 @@
 ### Bibliography Management Software
 
 - [Mendeley](https://www.mendeley.com/)
-- [Zotero](https://www.zotero.org/)
 - [Papers](https://www.readcube.com/papers/)
+- [Zotero](https://www.zotero.org/)
 
 ### Indexing of Publications and Search
 
@@ -201,9 +201,9 @@
 ### Open DIY Hardware
 
 - [Autopatcher - DIY hardware for builting a cell autopatching system for electrophysiology](http://autopatcher.org/)
+- [FinchSchope - 3D printed miniature microscope](https://github.com/gardner-lab/FinchScope) and accompanying [VideoCapture software](https://github.com/gardner-lab/video-capture)
 - [Open Ephys - Open-source electrophysiology](http://www.open-ephys.org/)
 - [Open Hardware Repository - run by CERN](https://www.ohwr.org/)
-- [FinchSchope - 3D printed miniature microscope](https://github.com/gardner-lab/FinchScope) and accompanying [VideoCapture software](https://github.com/gardner-lab/video-capture)
 - [UCLA Miniscope](http://miniscope.org/)
 
 ### Organizations Conferences Communities
