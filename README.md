@@ -26,6 +26,9 @@
 
 - These categories are very non-exclusive, as many resources could fit multiple categories.
 - Feel free to add to this; pull Requests are VERY welcome!
+- If you're interested in computational neuroscience, [I've made a similar 
+  repo-list of open computational neuroscience resources 
+  here](https://github.com/asoplata/open-computational-neuroscience-resources).
 
 ### Meta-resources
 
