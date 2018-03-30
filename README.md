@@ -225,6 +225,7 @@
 - [SPARC - Scholarly Publishing and Academic Resources Coalition](https://sparcopen.org/)
 - [SSI - Software Sustainability Institute, focused on enhancing scientific coding](https://www.software.ac.uk/who-do-we-work)
 - [TailorDev - "Best practices and software for an Open Science"](https://tailordev.fr/)
+- [Zooniverse - Large community of open citizen science projects](https://www.zooniverse.org/)
 
 ##### Specific to field
 
