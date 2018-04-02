@@ -78,6 +78,7 @@
 - [GitHub public datasets (not comprehensive)](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 - [Google spreadsheet](https://docs.google.com/spreadsheets/d/14_oCSKXcDWlcc4UBjLEh2KFidYN7ZBfCMNbz2iXu-2M/edit#gid=1595396026)
 - [INDI - International Neuroimaging Data-Sharing Initiative](http://fcon_1000.projects.nitrc.org/)
+- [Nature Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
 - [NCBI databases - National Center for Biotechnology Information database list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [NCIP - National Cancer Informatics Program data repository](http://cbiit.nci.nih.gov/ncip/biomedical-informatics-resources/data)
 - [NDA - National Institute of Mental Health (NIMH) Data Archive](http://ndar.nih.gov)
