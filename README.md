@@ -235,6 +235,7 @@
 
 ### Project Management
 
+- [Clowder - Open source data management for research](https://clowder.ncsa.illinois.edu/)
 - [OSF - Open Science Framework](https://osf.io/) built by [Center for Open Science](https://cos.io/)
 - [Synapse](https://www.synapse.org/) built by [Sage Bionetworks](http://sagebionetworks.org/)
 - [Liquid](https://getliquid.io/home)
