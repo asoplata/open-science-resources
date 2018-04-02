@@ -120,6 +120,7 @@
 - [CCF - Connectome Coordination Facility, includes Human Connectome Projects](http://www.humanconnectome.org/)
 - [CEBS - Chemical Effects in Biological Systems](http://tools.niehs.nih.gov/cebs3/ui/)
 - [Channelpedia - Wiki of neuron ion channels, hosted by the Blue Brain Project](http://channelpedia.epfl.ch/)
+- [ClinEpiDB - Clinical Epidemiology Resources](https://clinepidb.org/ce/app)
 - [ClinicalTrials.gov - Probably the premier database of clinical studies](https://clinicaltrials.gov/)
 - [CRCNS - Collaborative Research in Computational Neuroscience](http://crcns.org/data-sets)
 - [CVRG - CardioVascular Research Grid](http://cvrgrid.org/)
@@ -215,7 +216,10 @@
 
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
 - [BSSW - Better Scientific SoftWare project](https://bssw.io/)
+- [Code for Science and Society](https://codeforscience.org/)
+- [Code is Science](http://www.codeisscience.com/)
 - [COS - Center for Open Science](https://cos.io/)
+- [eLife Innovation](https://elifesciences.org/about/innovation)
 - [F1000Research](https://f1000research.com/)
 - [FORCE11 - Scientific community dedicated to improving knowledge sharing capabilities in scholarly communication](https://www.force11.org/)
 - [IODC - International Open Data Conference](https://www.opendatacon.org/)
