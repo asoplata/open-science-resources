@@ -61,6 +61,7 @@
 ### Open Code
 
 - [Bioconductor - R software suite for analyzing high-throughput genomic data](https://www.bioconductor.org/)
+- [Bonsai - Experimental pipeline control, includes video analysis and control of experimental setups](http://www.open-ephys.org/bonsai/)
 - [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
 - [GitHub for Science](https://blog.github.com/2014-05-14-improving-github-for-science/)
 - [rOpenSci - Infrastructure for R software tools for scientific data analysis](https://ropensci.org/)
