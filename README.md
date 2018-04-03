@@ -6,7 +6,9 @@
     - [Bibliography Management Software](#bibliography-management-software)
     - [Indexing of Publications and Search](#indexing-of-publications-and-search)
     - [Open Code](#open-code)
-        - [Code Licensing](#code-licensing)
+        - [Analysis Tools](#analysis-tools)
+        - [Cloud Computing and Containerization](#cloud-computing-and-containerization)
+        - [Code Licensing Guides](#code-licensing-guides)
     - [Open Data Repositories and Services](#open-data-repositories-and-services)
         - [Meta-resources for open data repositories](#meta-resources-for-open-data-repositories)
         - [Non-specific](#non-specific)
@@ -14,6 +16,7 @@
     - [Open DIY Hardware](#open-diy-hardware)
     - [Organizations Conferences Communities](#organizations-conferences-communities)
         - [Specific to field](#specific-to-field)
+    - [Policy](#policy)
     - [Project Management](#project-management)
     - [Publishing](#publishing)
         - [Journals for Open Science and Open Access](#journals-for-open-science-and-open-access)
@@ -29,16 +32,19 @@
 - If you're interested in computational neuroscience, [I've made a similar 
   repo-list of open computational neuroscience resources 
   here](https://github.com/asoplata/open-computational-neuroscience-resources).
+- [Glossary of Open Research Terms](https://figshare.com/articles/Open_Research_Glossary/1482094)
 
 ### Meta-resources
 
 - [Connected Researchers - Digital tools for researchers](http://connectedresearchers.com/online-tools-for-researchers/#dataandcode)
+- [GRID - Global Research Identifier Database](https://grid.ac/)
 - [NCBI databases - National Center for Biotechnology Information database list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [NIF - Neuroscience Infomation Framework - Search for EVERY kind of neuroscience data, atlas, software, everything!](https://neuinfo.org//)
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [SciCrunch - Science resource sharing and searching](https://scicrunch.org/)
 - [SciCrunch Resource Identification Portal - Searches and indexes Research Resource Identifiers (RRIDs) in literature](https://scicrunch.org/resources)
     - For more information: https://www.force11.org/group/resource-identification-initiative
+- [Why Open Research?](http://whyopenresearch.org/)
 
 ### Bibliography Management Software
 
@@ -56,16 +62,31 @@
 - [PubMed Central (PMC) - The collection of free full-text publications on PubMed](http://www.ncbi.nlm.nih.gov/pmc/)
 - [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
 - [ScienceOpen](https://www.scienceopen.com/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
 - [Spharrho](https://www.sparrho.com/)
 
 ### Open Code
 
-- [Bioconductor - R software suite for analyzing high-throughput genomic data](https://www.bioconductor.org/)
+- [Awesome Pipeline - List of pipeline, HPC, and scientific software](https://github.com/pditommaso/awesome-pipeline)
+- [Full-stack Science](http://billmills.github.io/blog/full-stack)
 - [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
 - [GitHub for Science](https://blog.github.com/2014-05-14-improving-github-for-science/)
-- [rOpenSci - Infrastructure for R software tools for scientific data analysis](https://ropensci.org/)
 - [SciUnit - Formally validating scientific models against data](https://github.com/scidash/sciunit)
 - [SNM - Scientific Software Network Map, tool for analyzing what software is being used in science](http://scisoft-net-map.isri.cmu.edu/)
+
+##### Analysis Tools
+
+- [Bioconductor - R software suite for analyzing high-throughput genomic data](https://www.bioconductor.org/)
+- [Google DataLab](https://cloud.google.com/datalab/)
+- [pandas - Data analysis in Python](https://pandas.pydata.org/)
+- [rOpenSci - Infrastructure for R software tools for scientific data analysis](https://ropensci.org/)
+
+##### Cloud Computing and Containerization
+
+- [bioboxes - Bioinformatics software containers](http://bioboxes.org/)
+- [Neuroscience Gateway - Free cloud computation of neural models](https://www.nsgportal.org/)
+- [OpenStack](https://www.openstack.org/)
+- [Singularity - Containers for science, especially high-performance computing](https://singularity.lbl.gov/)
 
 ##### Code Licensing Guides
 
@@ -88,6 +109,7 @@
 - [Google spreadsheet](https://docs.google.com/spreadsheets/d/14_oCSKXcDWlcc4UBjLEh2KFidYN7ZBfCMNbz2iXu-2M/edit#gid=1595396026)
 - [INDI - International Neuroimaging Data-Sharing Initiative](http://fcon_1000.projects.nitrc.org/)
 - [Nature Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
+    - Also here: https://figshare.com/articles/Scientific_Data_recommended_repositories_June_2015/1434640
 - [NCBI databases - National Center for Biotechnology Information database list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [NCIP - National Cancer Informatics Program data repository](http://cbiit.nci.nih.gov/ncip/biomedical-informatics-resources/data)
 - [NDA - National Institute of Mental Health (NIMH) Data Archive](http://ndar.nih.gov)
@@ -103,6 +125,7 @@
 - [Open Data Inception - List of open data portals](https://opendatainception.io/)
 - [Pathway Commons - Database of public pathway and interaction databases](http://www.pathwaycommons.org/about/)
 - [PhysioNet - Database of physiological signal datasets (PhysioBank) and related tools (PhysioToolkit)](http://www.physionet.org)
+- [PLoS Recommended Data Reopositories](http://journals.plos.org/plosone/s/data-availability)
 - [UniProt - Repository of protein sequence and functional information databases](http://www.uniprot.org/)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 
@@ -112,6 +135,7 @@
 - [Datazar - Cloud-based data collaboration platform](https://www.datazar.com/)
 - [Dryad Digital Repository](https://datadryad.org/)
 - [Figshare - Online repository for sharing figures, data, and more](https://figshare.com/)
+- [List of Open Grant Proposals](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
 - [OSF - Open Science Framework](http://osf.io/)
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [Zenodo - Research data repository](https://zenodo.org/)
@@ -130,6 +154,7 @@
 - [C-BIG - Biological Imaging and Genetic repository](http://www.mcgill.ca/c-bigneuro/)
 - [CCF - Connectome Coordination Facility, includes Human Connectome Projects](http://www.humanconnectome.org/)
 - [CEBS - Chemical Effects in Biological Systems](http://tools.niehs.nih.gov/cebs3/ui/)
+- [CERN Open Data](http://opendata.cern.ch/)
 - [Channelpedia - Wiki of neuron ion channels, hosted by the Blue Brain Project](http://channelpedia.epfl.ch/)
 - [ClinEpiDB - Clinical Epidemiology Resources](https://clinepidb.org/ce/app)
 - [ClinicalTrials.gov - Probably the premier database of clinical studies](https://clinicaltrials.gov/)
@@ -179,12 +204,14 @@
 - [NACDA - National Archive of Computerized Data on Aging](http://www.icpsr.umich.edu/icpsrweb/NACDA/)
 - [National Sleep Research Resource](http://sleepdata.org/)
 - [NCBO BioPortal - National Center for Biomedical Ontology repository](http://bioportal.bioontology.org/)
+- [NeuroData.io - Open Connectome data](https://neurodata.io/)
 - [NeuroElectro - Repository of data-mined and human-curated neuron celltype electrophysiological data](https://neuroelectro.org/)
 - [NeuroMorpho - Curated repository of digitally reconstructed neuron geometries](http://neuromorpho.org/)
 - [NeuroVault - Public repository of MRI and PET statistical maps, 
   parcellations, and atlases](https://neurovault.org/)
 - [NIDA (National Institute of Drug Abuse) Genetics Repository](https://nidagenetics.org/)
 - [NIH (National Institutes of Health) Human Microbiome Project](http://hmpdacc.org/resources/data_browser.php)
+- [NMC - Neocortical Microcircuit Collaboration, part of Blue Brain](https://bbp.epfl.ch/nmc-portal/welcome)
 - [NURSA - Nuclear Receptor Signaling Atlas](https://www.nursa.org/nursa/index.jsf)
 - [NWB - Neurodata Without Borders - Database of electrophysiological neuroscience data](http://nwb.org/)
 - [OpenfMRI data repository](http://openfmri.org/)
@@ -216,6 +243,7 @@
 - [TCDB - Transporter Classification Database](http://www.tcdb.org/)
 - [UCSC (University of California Santa Cruz) Genome Browser](http://genome.ucsc.edu/)
 - [VectorBase - Bioinformatics resource for invertebrate vectors of human pathogens](https://www.vectorbase.org/)
+- [Wikidata for research on Wikipedia](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research)
 - [WikiPathways - Database of biological pathways](http://www.wikipathways.org)
 - [Whole Brain Catalog - Virtual catalog of a mouse brain](https://library.tmc.edu/website/whole-brain-catalog/)
 - [WormBase - Database of nematode information](https://www.wormbase.org)
@@ -235,26 +263,37 @@
 
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
 - [BSSW - Better Scientific SoftWare project](https://bssw.io/)
+- [Codata - Committee on Data of the International Council for Science](http://www.codata.org/)
 - [Code for Science and Society](https://codeforscience.org/)
 - [Code is Science](http://www.codeisscience.com/)
 - [COS - Center for Open Science](https://cos.io/)
+- [Data Carpentry - Teaching universal data literacy, sibling of Software Carpentry](http://www.datacarpentry.org/)
 - [eLife Innovation](https://elifesciences.org/about/innovation)
 - [experiment - Kickstarter for science](https://experiment.com/labnotes?sort=top)
 - [F1000Research](https://f1000research.com/)
 - [FORCE11 - Scientific community dedicated to improving knowledge sharing capabilities in scholarly communication](https://www.force11.org/)
+- [FOSTER - Fostering open science](https://www.fosteropenscience.eu/)
+- [Helmholtz Open Science](https://www.helmholtz.de/en/research/open_access/)
 - [Hypothes.is - Public annotation of scientific publications](https://web.hypothes.is/)
 - [IODC - International Open Data Conference](https://www.opendatacon.org/)
 - [LinkedScience.org](http://linkedscience.org/)
 - [Mozilla Science Lab - Very exciting work focused on open science coding and communication](https://science.mozilla.org/)
+- [NDS - National Data Service](http://www.nationaldataservice.org/)
+    - [NDS Labs code](https://github.com/nds-org/ndslabs)
 - [Neurostars - Neuroscience Q and A](https://neurostars.org/)
 - [NumFocus - Open Code = Better Science](https://www.numfocus.org/)
 - [OBF - Open Bioinformatics Foundation, geared towards open science code development](http://www.open-bio.org/wiki/Main_Page)
 - [OCSD - Open and Collaborative Science in Development Network](https://ocsdnet.org/)
 - [ODI - Open Data Institute](https://theodi.org/)
+- [OpenAIRE - Open science in Europe](https://www.openaire.eu/)
 - [OpenCon conference](http://www.opencon2017.org/)
 - [OpenData StackExchange](https://opendata.stackexchange.com/)
+- [OpenScienceASAP](http://openscienceasap.org/)
 - [ORCID - Universal identifiers for researchers](https://orcid.org/)
+- [OSC - Open Science Commons](https://www.opensciencecommons.org/)
 - [RDA - Research Data Alliance](https://www.rd-alliance.org/)
+- [ResBaz - Research Bazaar](https://resbaz.github.io/resbaz2018/)
+- [SHARE - Open data about research lifecycles](http://www.share-research.org/)
 - [Software Carpentry - Teaching basic lab skills for research computing](https://software-carpentry.org/)
 - [SPARC - Scholarly Publishing and Academic Resources Coalition](https://sparcopen.org/)
 - [SSI - Software Sustainability Institute, focused on enhancing scientific coding](https://www.software.ac.uk/who-do-we-work)
@@ -264,8 +303,15 @@
 ##### Specific to field
 
 - [OpenPlant - Synthetic Biology Research Center](https://www.openplant.org/)
+- [Organization for Human Brain Mapping](https://www.humanbrainmapping.org)
+- [NEON - Open access data and infrastructure for ecology](https://twitter.com/NEON_Sci)
 - [Public Lab - Inexpensive DIY environmental science](https://publiclab.org/)
 - [songbird-code - Community for software related to song bird research](https://groups.google.com/forum/?hl=en#!forum/songbird-code)
+
+### Policy
+
+- [European Commission Open Science Policy Platform](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform)
+- [NIH Software Discovery Index report](http://www.softwarediscoveryindex.org/)
 
 ### Project Management
 
