@@ -68,6 +68,7 @@
 ### Open Code
 
 - [Awesome Pipeline - List of pipeline, HPC, and scientific software](https://github.com/pditommaso/awesome-pipeline)
+- [Bonsai - Experimental pipeline control, includes video analysis and control of experimental setups](http://www.open-ephys.org/bonsai/)
 - [Full-stack Science](http://billmills.github.io/blog/full-stack)
 - [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
 - [GitHub for Science](https://blog.github.com/2014-05-14-improving-github-for-science/)
