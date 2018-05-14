@@ -9,10 +9,10 @@ prolific, but only recently with the rise of the Open Access movement has this
 sharing come to embrace the public. Even though most research data is never
 shared, both the public and even scientists in their own fields are often
 unaware of just much data, tools, and other resources are made freely available
-for analysis! This list is a small attempt at bringing light to data
+for analysis! **This list is a small attempt at bringing light to data
 repositories and computational science tools that are often siloed according to
 each scientific discipline, in the hopes of spurring along both public and
-professional contributions to science.
+professional contributions to science.**
 
 These categories are very non-exclusive, as many resources could fit multiple
 categories. If you're interested in computational neuroscience specifically,
