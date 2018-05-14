@@ -24,7 +24,6 @@ Contributions are VERY welcome!
 -----------------------------------
 
 - Contents:
-    - [Notes](#notes)
     - [Meta-resources](#meta-resources)
     - [Bibliography Management Software](#bibliography-management-software)
     - [Indexing of Publications and Search](#indexing-of-publications-and-search)
