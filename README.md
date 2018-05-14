@@ -38,10 +38,6 @@ Contributions are VERY welcome!
 
 -----------------------------------
 
-### Notes
-
-
-
 ### Meta-resources
 
 - [Connected Researchers - Digital tools for researchers](http://connectedresearchers.com/online-tools-for-researchers/#dataandcode)
