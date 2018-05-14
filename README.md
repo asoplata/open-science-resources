@@ -1,6 +1,27 @@
-# Open Science Resources
+# Open Science Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Scientific data and tools should, as much as possible, be free as in beer and
+free as in freedom. The vast majority of science today is paid for by
+taxpayer-funded grants; at the same time, the incredible successes of science
+are strong evidence for the benefit of collaboration in knowledgable pursuits.
+Within the scientific academy, sharing of expertise, data, tools, etc. is
+prolific, but only recently with the rise of the Open Access movement has this
+sharing come to embrace the public. Even though most research data is never
+shared, both the public and even scientists in their own fields are often
+unaware of just much data, tools, and other resources are made freely available
+for analysis! This list is a small attempt at bringing light to data
+repositories and computational science tools that are often siloed according to
+each scientific discipline, in the hopes of spurring along both public and
+professional contributions to science.
+
+These categories are very non-exclusive, as many resources could fit multiple
+categories. If you're interested in computational neuroscience specifically,
+[I've made a similar repo-list of open computational neuroscience resources
+here](https://github.com/asoplata/open-computational-neuroscience-resources).
+
+Contributions are VERY welcome!
+
+-----------------------------------
 
 - Contents:
     - [Notes](#notes)
@@ -19,16 +40,12 @@
 
 ### Notes
 
-- These categories are very non-exclusive, as many resources could fit multiple categories.
-- Feel free to add to this; pull Requests are VERY welcome!
-- If you're interested in computational neuroscience, [I've made a similar 
-  repo-list of open computational neuroscience resources 
-  here](https://github.com/asoplata/open-computational-neuroscience-resources).
-- [Glossary of Open Research Terms](https://figshare.com/articles/Open_Research_Glossary/1482094)
+
 
 ### Meta-resources
 
 - [Connected Researchers - Digital tools for researchers](http://connectedresearchers.com/online-tools-for-researchers/#dataandcode)
+- [Glossary of Open Research Terms](https://figshare.com/articles/Open_Research_Glossary/1482094)
 - [GRID - Global Research Identifier Database](https://grid.ac/)
 - [NCBI databases - National Center for Biotechnology Information database list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
     - [Entrez Direct - Command-line tools for interacting with these databases](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
