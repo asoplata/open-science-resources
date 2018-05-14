@@ -1,27 +1,19 @@
 # Open Science Resources
 
-- Table of Contents:
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+- Contents:
     - [Notes](#notes)
     - [Meta-resources](#meta-resources)
     - [Bibliography Management Software](#bibliography-management-software)
     - [Indexing of Publications and Search](#indexing-of-publications-and-search)
     - [Open Code](#open-code)
-        - [Analysis Tools](#analysis-tools)
-        - [Cloud Computing and Containerization](#cloud-computing-and-containerization)
-        - [Code Licensing Guides](#code-licensing-guides)
     - [Open Data Repositories and Services](#open-data-repositories-and-services)
-        - [Meta-resources for open data repositories](#meta-resources-for-open-data-repositories)
-        - [Non-specific](#non-specific)
-        - [Specific to field](#specific-to-field)
     - [Open DIY Hardware](#open-diy-hardware)
     - [Organizations Conferences Communities](#organizations-conferences-communities)
-        - [Specific to field](#specific-to-field)
     - [Policy](#policy)
     - [Project Management](#project-management)
     - [Publishing](#publishing)
-        - [Journals for Open Science and Open Access](#journals-for-open-science-and-open-access)
-        - [Manuscript Collaboration](#manuscript-collaboration)
-        - [Manuscript Licensing](#manuscript-licensing)
 
 -----------------------------------
 
@@ -39,6 +31,7 @@
 - [Connected Researchers - Digital tools for researchers](http://connectedresearchers.com/online-tools-for-researchers/#dataandcode)
 - [GRID - Global Research Identifier Database](https://grid.ac/)
 - [NCBI databases - National Center for Biotechnology Information database list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
+    - [Entrez Direct - Command-line tools for interacting with these databases](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
 - [NIF - Neuroscience Infomation Framework - Search for EVERY kind of neuroscience data, atlas, software, everything!](https://neuinfo.org//)
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [SciCrunch - Science resource sharing and searching](https://scicrunch.org/)
@@ -262,6 +255,7 @@
 
 ### Organizations Conferences Communities
 
+- [BD2K - Big Data to Knowledge at NIH](https://commonfund.nih.gov/bd2k)
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
 - [BSSW - Better Scientific SoftWare project](https://bssw.io/)
 - [Codata - Committee on Data of the International Council for Science](http://www.codata.org/)
@@ -331,6 +325,7 @@
 - [DOAJ - Directory of Open Access Journals](https://doaj.org/)
 - [eLife - High-quality journal that's open access](https://elifesciences.org/)
 - [F1000Research](https://f1000research.com/)
+- [Funding for open access article publication](https://github.com/mozillascience/openguides/issues/1)
 - [gitXiv - Preprint server for computer science](http://www.gitxiv.com/)
 - [OAD - Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page)
 - [PeerJ](https://peerj.com/about/publications/)
