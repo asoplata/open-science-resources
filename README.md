@@ -1,5 +1,5 @@
-# Open Science Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+# Open Science Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Scientific data and tools should, as much as possible, be free as in beer and
 free as in freedom. The vast majority of science today is paid for by
 taxpayer-funded grants; at the same time, the incredible successes of science
@@ -13,16 +13,12 @@ for analysis! **This list is a small attempt at bringing light to data
 repositories and computational science tools that are often siloed according to
 each scientific discipline, in the hopes of spurring along both public and
 professional contributions to science.**
-
 These categories are very non-exclusive, as many resources could fit multiple
 categories. If you're interested in computational neuroscience specifically,
 [I've made a similar repo-list of open computational neuroscience resources
 here](https://github.com/asoplata/open-computational-neuroscience-resources).
-
 Contributions are VERY welcome!
-
 -----------------------------------
-
 - Contents:
     - [Meta-resources](#meta-resources)
     - [Bibliography Management Software](#bibliography-management-software)
@@ -34,11 +30,9 @@ Contributions are VERY welcome!
     - [Policy](#policy)
     - [Project Management](#project-management)
     - [Publishing](#publishing)
-
 -----------------------------------
 
 ### Meta-resources
-
 - [Connected Researchers - Digital tools for researchers](http://connectedresearchers.com/online-tools-for-researchers/#dataandcode)
 - [Glossary of Open Research Terms](https://figshare.com/articles/Open_Research_Glossary/1482094)
 - [GRID - Global Research Identifier Database](https://grid.ac/)
@@ -52,13 +46,11 @@ Contributions are VERY welcome!
 - [Why Open Research?](http://whyopenresearch.org/)
 
 ### Bibliography Management Software
-
 - [Mendeley](https://www.mendeley.com/)
 - [Papers](https://www.readcube.com/papers/)
 - [Zotero](https://www.zotero.org/)
 
 ### Indexing of Publications and Search
-
 - [Europe PMC - Similar to PubMed Central below](http://europepmc.org/)
 - [Google Scholar](https://scholar.google.com)
 - [MyScienceWork](https://www.mysciencework.com/)
@@ -71,7 +63,6 @@ Contributions are VERY welcome!
 - [Spharrho](https://www.sparrho.com/)
 
 ### Open Code
-
 - [Awesome Pipeline - List of pipeline, HPC, and scientific software](https://github.com/pditommaso/awesome-pipeline)
 - [Bonsai - Experimental pipeline control, includes video analysis and control of experimental setups](http://www.open-ephys.org/bonsai/)
 - [Full-stack Science](http://billmills.github.io/blog/full-stack)
@@ -81,21 +72,18 @@ Contributions are VERY welcome!
 - [SNM - Scientific Software Network Map, tool for analyzing what software is being used in science](http://scisoft-net-map.isri.cmu.edu/)
 
 ##### Analysis Tools
-
 - [Bioconductor - R software suite for analyzing high-throughput genomic data](https://www.bioconductor.org/)
 - [Google DataLab](https://cloud.google.com/datalab/)
 - [pandas - Data analysis in Python](https://pandas.pydata.org/)
 - [rOpenSci - Infrastructure for R software tools for scientific data analysis](https://ropensci.org/)
 
 ##### Cloud Computing and Containerization
-
 - [bioboxes - Bioinformatics software containers](http://bioboxes.org/)
 - [Neuroscience Gateway - Free cloud computation of neural models](https://www.nsgportal.org/)
 - [OpenStack](https://www.openstack.org/)
 - [Singularity - Containers for science, especially high-performance computing](https://singularity.lbl.gov/)
 
 ##### Code Licensing Guides
-
 - [Choose a License.com](https://choosealicense.com)
 - [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
 - [The Whys and Hows of Licensing Scientific Code](http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/)
@@ -103,7 +91,6 @@ Contributions are VERY welcome!
 ### Open Data Repositories and Services
 
 ##### Meta-resources for open data repositories
-
 - [academictorrents](http://academictorrents.com/)
 - [Broad Institute Data, Software, and Tools](https://www.broadinstitute.org/data-software-and-tools)
 - [COPO - Collaborative Open Plant -Omics](https://copo-project.org/)
@@ -136,7 +123,6 @@ Contributions are VERY welcome!
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 
 ##### Non-specific
-
 - [Dataverse - Open source research data repository software](https://dataverse.org/)
 - [Datazar - Cloud-based data collaboration platform](https://www.datazar.com/)
 - [Dryad Digital Repository](https://datadryad.org/)
@@ -147,7 +133,6 @@ Contributions are VERY welcome!
 - [Zenodo - Research data repository](https://zenodo.org/)
 
 ##### Specific to field
-
 - [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 - [ABIDE - Autism Brain Imaging Data Exchange](http://fcon_1000.projects.nitrc.org/indi/abide/)
 - [Allen Brain Atlas Data Portal](http://brain-map.org/)
@@ -213,7 +198,7 @@ Contributions are VERY welcome!
 - [NeuroData.io - Open Connectome data](https://neurodata.io/)
 - [NeuroElectro - Repository of data-mined and human-curated neuron celltype electrophysiological data](https://neuroelectro.org/)
 - [NeuroMorpho - Curated repository of digitally reconstructed neuron geometries](http://neuromorpho.org/)
-- [NeuroVault - Public repository of MRI and PET statistical maps, 
+- [NeuroVault - Public repository of MRI and PET statistical maps,
   parcellations, and atlases](https://neurovault.org/)
 - [NIDA (National Institute of Drug Abuse) Genetics Repository](https://nidagenetics.org/)
 - [NIH (National Institutes of Health) Human Microbiome Project](http://hmpdacc.org/resources/data_browser.php)
@@ -257,7 +242,6 @@ Contributions are VERY welcome!
 - [ZFIN - Zebrafish Model Organism Database](http://zfin.org/)
 
 ### Open DIY Hardware
-
 - [Autopatcher - DIY hardware for builting a cell autopatching system for electrophysiology](http://autopatcher.org/)
 - [FinchSchope - 3D printed miniature microscope](https://github.com/gardner-lab/FinchScope) and accompanying [VideoCapture software](https://github.com/gardner-lab/video-capture)
 - [Open Ephys - Open-source electrophysiology](http://www.open-ephys.org/)
@@ -266,7 +250,6 @@ Contributions are VERY welcome!
 - [UCLA Miniscope](http://miniscope.org/)
 
 ### Organizations Conferences Communities
-
 - [BD2K - Big Data to Knowledge at NIH](https://commonfund.nih.gov/bd2k)
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
 - [BSSW - Better Scientific SoftWare project](https://bssw.io/)
@@ -308,7 +291,6 @@ Contributions are VERY welcome!
 - [Zooniverse - Large community of open citizen science projects](https://www.zooniverse.org/)
 
 ##### Specific to field
-
 - [OpenPlant - Synthetic Biology Research Center](https://www.openplant.org/)
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org)
 - [NEON - Open access data and infrastructure for ecology](https://twitter.com/NEON_Sci)
@@ -316,12 +298,10 @@ Contributions are VERY welcome!
 - [songbird-code - Community for software related to song bird research](https://groups.google.com/forum/?hl=en#!forum/songbird-code)
 
 ### Policy
-
 - [European Commission Open Science Policy Platform](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform)
 - [NIH Software Discovery Index report](http://www.softwarediscoveryindex.org/)
 
 ### Project Management
-
 - [Clowder - Open source data management for research](https://clowder.ncsa.illinois.edu/)
 - [OSF - Open Science Framework](https://osf.io/) built by [Center for Open Science](https://cos.io/)
 - [Synapse](https://www.synapse.org/) built by [Sage Bionetworks](http://sagebionetworks.org/)
@@ -330,7 +310,6 @@ Contributions are VERY welcome!
 ### Publishing
 
 ##### Journals for Open Science and Open Access
-
 - [arXiv - Famous preprint server for physics, computer science, etc.](https://arxiv.org/)
 - [biorXiv - Preprint server for biology](https://www.biorxiv.org/)
 - [Cofactor - Open access journal selector](http://cofactorscience.com/journal-selector)
@@ -342,17 +321,15 @@ Contributions are VERY welcome!
 - [OAD - Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page)
 - [PeerJ](https://peerj.com/about/publications/)
 - [psyArXiv - Preprint server for psychology](https://psyarxiv.com/)
-- [ReScience Journal - Journal focused on reproducible computational research 
+- [ReScience Journal - Journal focused on reproducible computational research
   and replication](http://rescience.github.io/)
 
 ##### Manuscript Collaboration
-
 - [Authorea](https://www.authorea.com/)
 - [eLife Libero - Open publishing platform](https://elifesciences.org/inside-elife/33e4127f/elife-introduces-libero-a-new-open-source-tool-for-publishing)
 - [Overleaf](https://www.overleaf.com/)
 - [ShareLatex](https://www.sharelatex.com/)
 
 ##### Manuscript Licensing
-
 - [Creative Commons - Choose a License](https://creativecommons.org/choose/)
 - ["Why the CC-BY License?" - Open Access Scholarly Publishers Association](https://oaspa.org/why-cc-by/)
