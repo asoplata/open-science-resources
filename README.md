@@ -1,5 +1,5 @@
 
-# Open Science Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Open Science Resources
 
 Scientific data and tools should, as much as possible, be free as in beer and
 free as in freedom. The vast majority of science today is paid for by
