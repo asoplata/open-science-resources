@@ -350,6 +350,7 @@ Contributions are VERY welcome!
 - [eLife Libero - Open publishing platform](https://elifesciences.org/inside-elife/33e4127f/elife-introduces-libero-a-new-open-source-tool-for-publishing)
 - [Overleaf](https://www.overleaf.com/)
 - [ShareLatex](https://www.sharelatex.com/)
+- [Curvenote](https://curvenote.com/)
 
 ##### Manuscript Licensing
 
