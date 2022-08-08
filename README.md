@@ -145,6 +145,7 @@ Contributions are VERY welcome!
 - [OSF - Open Science Framework](http://osf.io/)
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [Zenodo - Research data repository](https://zenodo.org/)
+- [GigaDB - citable datasets that have been assigned DOIs and are available for public download and use](http://gigadb.org)
 
 ##### Specific to field
 
