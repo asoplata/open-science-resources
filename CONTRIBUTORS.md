@@ -8,6 +8,7 @@ guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 - [asoplata](https://github.com/asoplata)
 - [bringingheavendown](https://github.com/bringingheavendown)
+- [HoniSanders](https://github.com/HoniSanders)
 - [nathanntg](https://github.com/nathanntg)
 - [pjbh](https://github.com/pjbh)
 - [PTDZ](https://github.com/PTDZ)
