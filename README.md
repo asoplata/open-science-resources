@@ -46,6 +46,7 @@ Contributions are VERY welcome!
     - [Entrez Direct - Command-line tools for interacting with these databases](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
 - [NIF - Neuroscience Infomation Framework - Search for EVERY kind of neuroscience data, atlas, software, everything!](https://neuinfo.org//)
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
+- [KoreAves — South Korean bird evidence atlas](https://koreaves.com/dataset/) - Free, versioned and source-linked bird-record reference with an evidence manifest and public verification script; not a raw occurrence-data repository.
 - [SciCrunch - Science resource sharing and searching](https://scicrunch.org/)
 - [SciCrunch Resource Identification Portal - Searches and indexes Research Resource Identifiers (RRIDs) in literature](https://scicrunch.org/resources)
     - For more information: https://www.force11.org/group/resource-identification-initiative
