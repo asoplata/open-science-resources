@@ -151,6 +151,7 @@ Contributions are VERY welcome!
 
 - [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 - [ABIDE - Autism Brain Imaging Data Exchange](http://fcon_1000.projects.nitrc.org/indi/abide/)
+- [AgentFEM Open Science - Computational mechanics datasets, reproducible models, and interactive demonstrations for elasticity, material memory, heat transfer, and flexible structures](https://lab.haoming-luo.com/open-science/)
 - [Allen Brain Atlas Data Portal](http://brain-map.org/)
     - [More detail here](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/)
 - [BEI Resource Repository - Catalog of pathogens, disease agents, etc.](https://www.beiresources.org/)
