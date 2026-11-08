@@ -339,6 +339,7 @@ Contributions are VERY welcome!
 - [F1000Research](https://f1000research.com/)
 - [Funding for open access article publication](https://github.com/mozillascience/openguides/issues/1)
 - [gitXiv - Preprint server for computer science](http://www.gitxiv.com/)
+- [JournalCompass - free journal search and finder covering SCI/SSCI journals with Chinese Academy of Sciences (CAS) zones, impact factor, review time, APC and open-access status, each figure shown with its source and date; matches a manuscript abstract to candidate journals](https://journalcompass.com/en/)
 - [OAD - Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page)
 - [PeerJ](https://peerj.com/about/publications/)
 - [psyArXiv - Preprint server for psychology](https://psyarxiv.com/)
